@@ -14,7 +14,7 @@ const Login = () => {
                 <div className='text-center'>
                     <button className='py-1.5 px-4 text-white bg-blue-700 rounded cursor-pointer hover:bg-blue-600'>Login</button>
                 </div>
-                <p className='my-2 text-black'>Rigister <Link to="/signup" className='text-blue-600 underline'> Signup</Link></p>
+                <p className='my-2 text-black'>Register <Link to="/signup" className='text-blue-600 underline'> Signup</Link></p>
             </div>
         </div>
     )
